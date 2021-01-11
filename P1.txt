@@ -1,0 +1,6 @@
+rite a program able to task a word to the user and print each letter of in on the console as “Harry”.
+H
+a
+r
+r
+y
