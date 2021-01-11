@@ -1,0 +1,2 @@
+Write a program able to task a word to the user and print the reverse of it on the console like "Banana".
+ananaB
